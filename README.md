@@ -1,5 +1,7 @@
 # Go!Listen
 
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/6e518957-d739-41cb-8075-e902230aaa35" /><br>
+
 This is a multimedia overlay plugin for the PlayStation Portable (PSP) made with the purpose of completing the Go!Explore application by adding infotainment capabilities. 
 
 It can play standard MP3 files from `ms0:/MUSIC` as music background and display their metadata and cover art as popups in-game.
