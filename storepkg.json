@@ -1,0 +1,19 @@
+{
+   "pkgver": 1,
+   "type": "plugin",
+   "name": "golisten",
+   "author": "RegularRabbit05",
+   "description": "In-game music player with overlay!\nCan be used as a companion for Go!Explore",
+   "link": "https://github.com/RegularRabbit05/GoListen-PSP",
+   "version": "0.1",
+   "download": {
+      "remote": "github:RegularRabbit05/GoListen-PSP/releases/latest/download/GO_LISTEN.prx",
+      "compressed": false,
+      "targets": [
+         { "file": "GO_LISTEN.prx", "target": "ms0:/SEPLUGINS/GO_LISTEN.prx" }
+      ],
+      "register": [
+         "UCES00881, ms0:/SEPLUGINS/GO_LISTEN.prx, on"
+      ]
+   }
+}
