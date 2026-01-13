@@ -8,7 +8,7 @@ It can play standard MP3 files from `ms0:/MUSIC` as music background and display
 
 _This is currently a beta and as such lacks user controls. Soon™ I might update it to automatically lower the music volume while the navigator is talking._
 
-While this was made specifically for Go!Explore it can be used in any game as a replacement to the old music.prx as this comes with hardware acceleration (the decoder runs on the ME core).
+While this was made specifically for Go!Explore it can be used in some games as a replacement to the old music.prx as this comes with hardware acceleration (the decoder runs on the ME core).
 
 ## Installation
 
