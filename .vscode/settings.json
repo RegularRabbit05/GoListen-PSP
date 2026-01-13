@@ -1,0 +1,8 @@
+{
+   "files.associations": {
+      "pspkerneltypes.h": "c",
+      "kubridge.h": "c",
+      "pspsdk.h": "c",
+      "psptypes.h": "c"
+   }
+}
