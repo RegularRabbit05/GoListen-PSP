@@ -5,6 +5,7 @@
    "author": "RegularRabbit05",
    "description": "In-game music player with overlay!\nCan be used as a companion for Go!Explore",
    "link": "https://github.com/RegularRabbit05/GoListen-PSP",
+   "image": "githubusercontent:StoreStation/previews/refs/heads/main/golistenpreview.jpg",
    "version": "0.1",
    "download": {
       "remote": "github:RegularRabbit05/GoListen-PSP/releases/latest/download/GO_LISTEN.prx",
