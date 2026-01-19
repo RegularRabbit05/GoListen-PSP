@@ -2,7 +2,6 @@
 #include <pspsdk.h>
 #include <psptypes.h>
 #include <pspaudio.h>
-#include <pspaudiolib.h>
 #include <pspdisplay.h>
 #include <pspjpeg.h>
 #include <psputility_modules.h>
@@ -158,7 +157,6 @@ int work_thread(SceSize args, void *argp) {
       return 0;
    }
 
-   pspAudioInit();
    sceJpegInitMJpeg();
 
    sceUtilityLoadModule(PSP_MODULE_AV_AVCODEC);
